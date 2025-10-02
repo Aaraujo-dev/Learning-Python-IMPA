@@ -1,6 +1,6 @@
 # Learning Python - IMPA
 
-Repositório com exercícios, projetos e atividades desenvolvidas durante o período de estudo de Python no **IMPA (Instituto de Matemática Pura e Aplicada)**. O objetivo é registrar o aprendizado prático e servir como portfólio de desenvolvimento em Python.
+Repositório com exercícios, projetos e atividades desenvolvidas durante o período de estudo de Python no **IMPA (Instituto de Matemática Pura e Aplicada)**. O objetivo é registrar o  meu aprendizado prático e disponinibizar para análise. 
 
 ---
 
